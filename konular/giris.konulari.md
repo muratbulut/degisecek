@@ -1,4 +1,4 @@
-# Giriş ve Genel Terimler
+# Web Dünyasına Giriş ve Genel Terimler
 
 ## İnternetin  Tarihi
 Günümüz hayatının vazgeçilmez parçası olan internet aslında çok kısa bir geçmişe sahip. Amerika Savunma Bakanlığı ve bazı Amerikan Üniversiteleri tarafından başlatılan bir proje günümüz sanal aleminin temelini oluşturuyor.
@@ -52,11 +52,6 @@ CSS (Cascading Style Sheet) basit ve kullanışlı bir işaretleme dilidir. CSS 
 
 ## JavaScript Nedir ?
 JavaScript bize etkileşimli ve dinamik web sayfaları hazırlama imkanı vermektedir. Sözdizimi Java’ya benzese de Java ve JavaScript birbirinden farklı teknolojilerdir.
-
-## Algoritma Nedir ?
-Algoritma, belli bir problemi çözmek veya belirli bir amaca ulaşmak için tasarlanan yol anlamına gelir, matematikte ve bilgisayar biliminde bir işi yapmak için tanımlanan, bir başlangıç durumundan başladığında, açıkça belirlenmiş bir son durumunda sonlanan, sonlu işlemler kümesine denir.
-
-![Algoritma Nedir](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/LampFlowchart_tr.svg/300px-LampFlowchart_tr.svg.png)
 
 ## Üst Seviye Alan Nedir? Top Level Domain (TLD) Nedir?
 Üst seviye alan, alan adının en son kısmıdır. Alan adı uzantıları olarak da isimlendirilirler. Burası URL’nizde “nokta”dan sonra gelen kısımdır. Üst seviye uzantılar ülkelere özel üst seviye uzantılar ve jenerik üst seviye uzantılar olarak ikiye ayrılır.
@@ -212,21 +207,9 @@ Tesisat Firması İçin:
   - Kemal erkek ismi midir?
   - Kemal Kız ismi midir?
   - Kemal erkek adı midir?
-  - Kemal Kız adı midir?
+  - Kemal Kız adı midir?s
 
-
-## MarkDown:
-Yapımcısı John Gruber Markdown’ı 2004’te “web yazarları için bir metinden HTML’ye dönüştürme aracı” şeklinde tanımlamış. “Düz metin biçimlendirme sentaksı…”, “Eposta-stili yazma…” ve “Özellikle ve sadece HTML’ye ön-işlem olsun diye tasarlandı…”
-
-[StackEdit](https://stackedit.io/) ve [diğer bir örnek](https://jbt.github.io/markdown-editor/) gibi online web sitesi ile kolayca deneyebilirsiniz.
-
-## İşletim Sistemi Nedir?
-İşletim sistemleri cihazlarda var olan tüm donanımları yöneten ve sistemli bir şekilde çalışmasını sağlayan en temel yazılımdır. İşletim sistemi; bilgisayar, cep telefonu, beyaz eşya, oyun konsolları ve daha birçok cihazda bulunmaktadır. 
-
-## Dağıtım Nedir ?
-Bir Linux dağıtımı (kısaca dağıtım); Linux çekirdeği, GNU araçları ve bir masaüstü ortamının bir araya gelmesiyle, bu birlikteliği sürdürülebilir şekilde yönetecek bir yapılandırma araçları seti, yazılım güncelleme araçları vb. ile oluşturularak tam teşekküllü bir işletim sistemi haline gelen uygulamalar bütününü ifade eder.
-
-## SPAGETTİ KOD
+## SPAGETTİ KOD nedir?
 **Firmalar MVC yöntemini daha çok tercih eder.** Spagetti kod HTML kodları arasında yazılan Sunucu ile irtibatta olan kodlarımıza spagetti kod demekteyiz. Kullanımı oldukça karışık olan bu kod yazma stili olan ve günümüzde oldukça sık kullanılan PHP ve ASP kodları genellikle spagetti kod örneğini sık kullanmaktadır. HTML etiketleri arasında yazılan bu kodlar MVC yapısı ile düzenli bir şekile girmiştir.
 
 ## MVC (Model-View-Controller)
@@ -235,31 +218,7 @@ front-end tamamen koddan ayrılmış php kodları tamamen ana kodumuzdan ayrılm
 - Cake
 - Code ignaither
 
-## NEDEN GITHUB’DA PROJELERE DESTEK VERMELİYİZ ?
-Bu iş sevmekten geçiyor.Yaptığım programın başkası tarafından kullanıdğını görmek beni çok
-mutlu ediyor.Parayla mutluluk bir dakika olur ama bu mutluluk bambaşka.Durum böyle olunca
-gerçekten bu işi seven yazılımı seven hobi içi yapanlar bu işe destek veriyor.Herkes mi bu işi
-seviyor hayır.Sizler bu projelere destek vermek zorundasınız.Üniversiteden mezunsunuz
-diplomanız var ortalamalanıza bakarlar.En büyük hata ortalamalara bakılması ve üniversitelere
-bakılması.Yazılımcılık diploma ile olmaz kod ile olur.İTÜ de okumak sizi adam yapmıyor.Kötü bir
-üniversitede de okmak da sizi gerizekalı yapmıyor.Kendinizi böyle bir sınavda belli etmek yerine github da
-nick alıyorsunuz ve projelere destek veriyorsunuz.Beğendiğiniz bir projeyi inidrin hatasını bulup
-düzeltin.Adama senin projeni beğendim bir kaç hata buldum bunları düzelttim diyin.Sizin profilinizde bu
-tarz yaptığınız her şey kaydediliyor.Merak eden birisi açıp projeyi incelyor.Bunu öğrenciler
-sıklıklıkla yapıyor.Sonra bir yazılım şirkeyinde işe girerken sizden GİTHUB adresinizi istiyor.
 
-## Anlamsal Sürümleme - Semantic Versioning
-BÜYÜK.KÜÇÜK.YAMA diye belirtilen bir sürüm numarasında,
-- Önceki sürümle uyumsuz API değişiklikleri yaptığınızda BÜYÜK sürümü,
-- Önceki sürümle uyumlu bir davranış eklediğinizde KÜÇÜK sürümü, ve
-- Önceki sürümle uyumlu bir hata düzeltmesi yaptığınızda YAMA sürümünü
-arttırın.
-
-**Majör/Büyük:** Programda radikal bir değişiklik yapılırsa majör sayımız artar.
-**Minör/Küçük:** Programa yenilik getirdiğimiz zaman artar.
-**Bug-Fix/Yama:** Hatalar düzeltildiği zaman artar.
-
-![Semantic Versioning](https://nhsconnect.github.io/gpconnect/images/design/semantic-versioning.png)
 
 
 ## AMP nedir? EMP nedir?

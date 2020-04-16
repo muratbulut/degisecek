@@ -9,6 +9,34 @@ Github, versiyon kontrol sistemleri için uzak bir depo hizmeti sağlayan bir se
 
 ![GitHub Projelerine Katkı](https://cdn-images-1.medium.com/max/2560/1*eoZUBYa9VJzPOFVz41M4Vg.jpeg)
 
+
+## NEDEN GITHUB’DA PROJELERE DESTEK VERMELİYİZ ?
+Bu iş sevmekten geçiyor.Yaptığım programın başkası tarafından kullanıdğını görmek beni çok
+mutlu ediyor.Parayla mutluluk bir dakika olur ama bu mutluluk bambaşka.Durum böyle olunca
+gerçekten bu işi seven yazılımı seven hobi içi yapanlar bu işe destek veriyor.Herkes mi bu işi
+seviyor hayır.Sizler bu projelere destek vermek zorundasınız.Üniversiteden mezunsunuz
+diplomanız var ortalamalanıza bakarlar.En büyük hata ortalamalara bakılması ve üniversitelere
+bakılması.Yazılımcılık diploma ile olmaz kod ile olur.İTÜ de okumak sizi adam yapmıyor.Kötü bir
+üniversitede de okmak da sizi gerizekalı yapmıyor.Kendinizi böyle bir sınavda belli etmek yerine github da
+nick alıyorsunuz ve projelere destek veriyorsunuz.Beğendiğiniz bir projeyi inidrin hatasını bulup
+düzeltin.Adama senin projeni beğendim bir kaç hata buldum bunları düzelttim diyin.Sizin profilinizde bu
+tarz yaptığınız her şey kaydediliyor.Merak eden birisi açıp projeyi incelyor.Bunu öğrenciler
+sıklıklıkla yapıyor.Sonra bir yazılım şirkeyinde işe girerken sizden GİTHUB adresinizi istiyor.
+
+
+## Anlamsal Sürümleme - Semantic Versioning
+BÜYÜK.KÜÇÜK.YAMA diye belirtilen bir sürüm numarasında,
+- Önceki sürümle uyumsuz API değişiklikleri yaptığınızda BÜYÜK sürümü,
+- Önceki sürümle uyumlu bir davranış eklediğinizde KÜÇÜK sürümü, ve
+- Önceki sürümle uyumlu bir hata düzeltmesi yaptığınızda YAMA sürümünü
+arttırın.
+
+**Majör/Büyük:** Programda radikal bir değişiklik yapılırsa majör sayımız artar.
+**Minör/Küçük:** Programa yenilik getirdiğimiz zaman artar.
+**Bug-Fix/Yama:** Hatalar düzeltildiği zaman artar.
+
+![Semantic Versioning](https://nhsconnect.github.io/gpconnect/images/design/semantic-versioning.png)
+
 ## Branch - Dal
 
 Dal kavramı ile projemizin mevcut halini koruyarak yeni bir sürüm çıkarabilir, hata giderme çalışması yapabilir veya en önemlisi projemize yeni bir özellik ekleme çalışması yapabiliriz.
