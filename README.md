@@ -4,7 +4,7 @@
 # İÇİNDEKİLER
 
 ## **_Giriş_**
-- [Giriş ve Temel Konular](./konular/giris.konulari.md)
+- [Web Dünyasına Giriş ve Genel Terimler](./konular/giris.konulari.md)
 - [Algoritma](./konular/algoritma.md) 
   
 
